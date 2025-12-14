@@ -1,15 +1,8 @@
-# 🍬 Sweet Shop Management System
-
-<div align="center">
-
-**A modern, full-stack inventory management solution for sweet shops**
+#  Sweet Shop Management System
 
 
-</div>
 
----
-
-## 📑 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -60,33 +53,33 @@ This application addresses these pain points by providing:
 
 ## Features
 
-### 🔐 Authentication & Security
+### Authentication & Security
 - User registration with email and password
 - Secure login with JWT token-based authentication
 - Password hashing using bcryptjs
 - Role-based access control (User/Admin)
 - Protected routes and API endpoints
 
-### 📦 Product Management
+### Product Management
 - View all available sweets with detailed information
 - Add new products (Admin only)
 - Edit existing product details (Admin only)
 - Delete products from inventory (Admin only)
 - Real-time inventory tracking
 
-### 🔍 Search & Filter
+### Search & Filter
 - Search products by name (case-insensitive)
 - Filter by product category
 - Filter by price range (min/max)
 - Combined search criteria support
 
-### 🛒 Purchase System
+### Purchase System
 - One-click purchase functionality
 - Automatic inventory deduction
 - Out-of-stock prevention
 - Quantity-based purchasing
 
-### 📊 Admin Features
+### Admin Features
 - Complete product lifecycle management
 - Restock products to increase quantities
 - Monitor all products and stock levels
@@ -578,18 +571,18 @@ Response (200):
    - Click "Create" to add the product
 
 3. **Editing Products**
-   - Click the edit icon (✏️) on any product card
+   - Click the edit icon on any product card
    - Modify the fields you want to update
    - You can update name, category, price, or quantity
    - Click "Update" to save changes
 
 4. **Deleting Products**
-   - Click the delete icon (🗑️) on any product card
+   - Click the delete icon on any product card
    - Confirm the deletion
    - The product will be permanently removed from inventory
 
 5. **Restocking Products**
-   - Click the restock icon (📦) on any product card
+   - Click the restock icon on any product card
    - Enter the quantity to add (e.g., 50 to add 50 units)
    - Click "Restock" to update inventory
    - The new total quantity will be displayed
@@ -812,8 +805,9 @@ For questions, issues, or suggestions, please open an issue in the repository.
 <div align="center">
 
 
-**Happy Coding! 🍬**
+**Happy Coding! **
 
 </div>
+
 
 
