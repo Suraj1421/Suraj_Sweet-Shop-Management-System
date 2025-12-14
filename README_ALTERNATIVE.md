@@ -4,11 +4,6 @@
 
 **A modern, full-stack inventory management solution for sweet shops**
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/Express-4.18-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![Jest](https://img.shields.io/badge/Jest-29.6-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
 
 </div>
 
@@ -604,28 +599,22 @@ Response (200):
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Login_Page.jpg)
 *Secure login interface with email and password authentication*
 
 ### Registration Page
-![Registration Page](screenshots/register.png)
+![Registration Page](Registration_Page.jpg)
 *User registration form with validation*
 
 ### Dashboard (User View)
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](User_Dashboard.jpg)
 *Main dashboard showing all available sweets with search and filter options*
 
 ### Dashboard (Admin View)
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](Admin_Dashboard.jpg)
 *Administrative dashboard with additional controls for product management*
 
-### Product Management
-![Product Management](screenshots/product-management.png)
-*Admin interface for adding, editing, and managing products*
 
-### Search & Filter
-![Search](screenshots/search.png)
-*Advanced search and filtering functionality*
 
 **Note:** Please add your actual screenshots to the `screenshots/` directory and update the paths above. The screenshots should demonstrate:
 - Login/Registration pages
@@ -827,3 +816,4 @@ For questions, issues, or suggestions, please open an issue in the repository.
 **Happy Coding! 🍬**
 
 </div>
+
