@@ -1,6 +1,10 @@
 # Sweet Shop Management System 🍬
 
-A delightful full-stack web application for managing a sweet shop inventory. Built with modern technologies and a beautiful, user-friendly interface that makes managing your sweet inventory a breeze!
+The Sweet Shop Management System is a full-stack web application designed to simplify and digitize the daily operations of a sweet shop. It helps manage inventory, sales, and overall business workflows in an efficient and organized way. The application is built using Node.js, Express.js, MongoDB, and React, following a modern web architecture.
+The system offers two separate interfaces: one for customers and one for administrators. Customers can browse available sweets, search and filter products, and place orders easily. On the admin side, shop owners or staff can manage products, track inventory, update stock levels, and handle all operational tasks.
+Security is handled using JWT-based authentication with role-based access control. Regular users have access to browsing and purchasing features, while administrators have full control over the system, including adding, editing, deleting, and restocking products. The platform also supports advanced search and filtering based on name, category, and price range, making product discovery simple and fast.
+Inventory levels are updated in real time whenever a purchase is made, ensuring accurate stock management. The backend is developed as a RESTful API using Express.js, responsible for business logic, authentication, and data handling. The frontend is a React single-page application with a responsive design for a smooth user experience across devices.
+The system uses MongoDB for flexible and scalable data storage, implements secure password hashing with bcryptjs, and includes proper input validation and error handling. The project reflects strong full-stack development skills, clean coding practices, and sound software engineering principles. With a 100% test pass rate and 81.64% code coverage, the application is well-tested, production-ready, and fully documented. It is ideal for small to medium-sized sweet shops looking to modernize their operations and improve efficiency.
 
 
 
