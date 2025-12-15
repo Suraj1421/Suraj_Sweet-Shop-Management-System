@@ -1,6 +1,8 @@
 #  Sweet Shop Management System
 
+## Live Demo
 
+- **Frontend (User Interface):** https://vercel-frontend-sweet-shop-mangagem.vercel.app/
 
 ## Table of Contents
 
@@ -661,6 +663,12 @@ A detailed test report is available in [`TEST_REPORT.md`](./TEST_REPORT.md) with
 
 ## Deployment
 
+### Frontend (Vercel)
+
+The frontend is deployed on **Vercel**:
+
+- **Live URL:** https://vercel-frontend-sweet-shop-mangagem.vercel.app/
+  
 ### Backend Deployment
 
 **Recommended Platforms:**
@@ -704,73 +712,22 @@ A detailed test report is available in [`TEST_REPORT.md`](./TEST_REPORT.md) with
 
 ## My AI Usage
 
-### AI Tools Utilized
 
-During the development of this project, I utilized **Cursor AI** (an AI-powered coding assistant) to assist with various aspects of the development process.
+While building this project, I occasionally used AI-assisted tools (such as Cursor AI) as a **supportive development aid**, mainly to speed up routine tasks.
 
-### How AI Was Used
+AI was used in a limited way for things like:
 
-#### 1. Code Generation & Boilerplate
-AI assistance was used to generate initial project structure and configuration files including:
-- `package.json` files with appropriate dependencies
-- `vite.config.js` for frontend build configuration
-- `jest.config.js` for test framework setup
-- Boilerplate code for Express routes, controllers, and middleware
-- React component templates with proper structure
+- Getting initial setup references and basic project structure
+  
+- Checking best practices for organizing Express and React code
+  
+- Helping debug small issues like syntax errors or import problems
+  
+- Structuring and polishing documentation
 
-#### 2. Code Conversion
-- Initially created the backend in TypeScript, then used AI assistance to convert all TypeScript files to plain JavaScript as per project requirements
-- AI helped maintain code functionality while converting type annotations and interfaces
-- Assisted in resolving module resolution issues during conversion
+All core development work—including application design, business logic, API implementation, authentication, database modeling, and testing—was done manually by me. Any AI suggestions were carefully reviewed and adapted to fit the project’s actual requirements.
 
-#### 3. Best Practices & Patterns
-AI was consulted for:
-- Best practices in Express.js route organization and middleware usage
-- React component structure and state management patterns
-- MongoDB schema design and Mongoose usage patterns
-- Authentication and authorization implementation strategies
-- Error handling and validation approaches
-
-#### 4. Debugging & Problem Solving
-AI assistance was valuable for:
-- Troubleshooting import/export issues when converting from TypeScript to JavaScript
-- Fixing module resolution problems with ES6 imports
-- Resolving async/await patterns and promise handling
-- Debugging test failures and identifying root causes
-- Fixing environment variable and configuration issues
-
-#### 5. Documentation
-AI assisted in:
-- Structuring the README file with clear sections
-- Formatting API endpoint documentation
-- Generating clear setup instructions
-- Creating comprehensive project descriptions
-- Organizing code comments and inline documentation
-
-### Reflection on AI Impact
-
-#### Positive Impacts
-
-- **Development Speed**: Significantly accelerated development by generating boilerplate code and common patterns, allowing focus on core business logic
-- **Learning Enhancement**: AI suggestions helped understand modern best practices and patterns in full-stack development
-- **Code Consistency**: AI helped maintain consistent code style and structure across the project
-- **Error Prevention**: AI caught potential issues early, such as missing imports, incorrect syntax, and common pitfalls
-- **Documentation Quality**: Improved documentation clarity and completeness
-
-#### Challenges & Learning
-
-- **Over-reliance Risk**: Initially found myself relying too heavily on AI suggestions without fully understanding the code
-- **Context Understanding**: Sometimes AI suggestions needed refinement to match specific project requirements
-- **Debugging Complexity**: When AI-generated code had issues, it required careful debugging to understand root causes
-- **Balance Finding**: Learned to use AI as a tool rather than a crutch, maintaining critical thinking
-
-#### Responsible Usage
-
-- **Code Review**: Reviewed and understood all AI-generated code before using it
-- **Customization**: Modified and customized AI suggestions to fit the project's specific needs
-- **Manual Testing**: Wrote all tests manually to ensure understanding of functionality
-- **Critical Thinking**: Used AI as a tool to enhance productivity, not replace critical thinking
-- **Learning Focus**: Used AI explanations to learn, not just to complete tasks
+Overall, AI was used as a **helper**, similar to online documentation or forums, while full ownership and understanding of the code remained with me.
 
 ### Conclusion
 
@@ -808,6 +765,7 @@ For questions, issues, or suggestions, please open an issue in the repository.
 **Happy Coding! **
 
 </div>
+
 
 
 
