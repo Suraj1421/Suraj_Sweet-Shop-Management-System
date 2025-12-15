@@ -759,12 +759,8 @@ For questions, issues, or suggestions, please open an issue in the repository.
 
 ---
 
-<div align="center">
 
 
-**Happy Coding! **
-
-</div>
 
 
 
